@@ -13,3 +13,5 @@ wget https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/6415-336
 tar xf fx.tar.xz
 
 rm -r fx.tar.xz
+
+reboot
