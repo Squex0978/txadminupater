@@ -8,7 +8,7 @@ rm -r alpine
 
 rm -r run.sh
 
-wget https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/6415-336b3fad78447d736db1deb35553e4a39523b2b5/fx.tar.xz
+wget https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/6519-3970e189cf8b5559cab80eab18cc8502297cfc3e/fx.tar.xz
 
 tar xf fx.tar.xz
 
