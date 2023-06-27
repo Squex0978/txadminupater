@@ -23,7 +23,7 @@ screen ./run.sh
 echo 'Fertig/Done jetz musst du nurnoch (reboot) eingeben und erneut deinen server mit 
 cd /home/FiveM/server 
 screen ./run.sh
-starten !'
+starten ! gute / billige server findest du auf discord.gg/pZjqQZqX98 https://host-zentrum.de/'
 
 
 
